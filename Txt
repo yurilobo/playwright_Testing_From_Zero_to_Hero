@@ -1,1 +1,9 @@
 curso de playwright
+
+npm init playwright@latest
+
+1- rodar os testes usando linha de comando
+npx playwright test
+
+npx playwright show-report
+npx playwright test --project-chromiun // --header
